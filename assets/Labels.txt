@@ -1,0 +1,2 @@
+﻿Tumeur bénigne
+Tumeur maligne
