@@ -19,3 +19,4 @@ The following assets are required for this project:
 ![Screenshot](/assets/ss1.jpg)
 ![Screenshot](/assets/ss2.jpg)
 "# SkinCancer-detection-app" 
+"# app_skin_cancer" 
